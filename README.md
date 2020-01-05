@@ -19,8 +19,8 @@ The Data Set Used for the Project:
 •	https://www.kaggle.com/datasets
 
 API Data 
-	https://api.yelp.com/v3/businesses/search
-	https://maps.googleapis.com/maps/api/geocode/json?
+1)	https://api.yelp.com/v3/businesses/search
+2)	https://maps.googleapis.com/maps/api/geocode/json?
 
 The Data Files used for this project is as below.<br>
 •	<b>listings.csv </b> : This file contains about the Airbnb Host, listing and Property Information’s. It also contains about the reviews scores & availability details of the property. <br>
