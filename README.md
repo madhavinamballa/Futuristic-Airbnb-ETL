@@ -30,6 +30,7 @@ The Data Files used for this project is as below.<br>
 •	<b>listings.csv </b> : This file contains about the Airbnb Host, listing and Property Information’s. It also contains about the reviews scores & availability details of the property. <br>
 •	<b> reviews.csv </b> : This file contains about the review information of the property. <br>
 •	<b> calendar.csv </b> : This file contains about the Property availability and its price information for the future year.
+<br>
 •	<b> places.csv </b> : This file contains about the top 20 popular places and their latitude and longitude values. 
 <br><br>
 We have used the <b> Yelp and Google api </b> to retrieve the top rated restaurants/café/bars for each listing.
