@@ -11,12 +11,14 @@ Our Project Aim is to perform the below activities as part of ETL phase.<br>
 
 	<b>Load</b> is the process of writing the data into the target database. <br>
 
+
 ## <ins> Source Data </ins>
+
 
 The Data Set Used for the Project:
 	Source Data
-•	http://insideairbnb.com/about.html
-•	https://www.kaggle.com/datasets
+1)	http://insideairbnb.com/about.html
+2)	https://www.kaggle.com/datasets
 
 API Data 
 1)	https://api.yelp.com/v3/businesses/search
