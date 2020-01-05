@@ -16,7 +16,9 @@ Our Project Aim is to perform the below activities as part of ETL phase.<br>
 
 
 The Data Set Used for the Project:
-	Source Data
+
+Source Data
+
 1)	http://insideairbnb.com/about.html
 2)	https://www.kaggle.com/datasets
 
